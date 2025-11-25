@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Associação dos Analistas de Políticas Públicas e Gestão Governamental"
+title: "TESTE DEPLOY Associação dos Analistas de Políticas Públicas e Gestão Governamental"
 permalink: /
 header:
   overlay_color: "#000"
