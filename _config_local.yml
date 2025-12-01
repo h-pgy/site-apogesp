@@ -1,0 +1,15 @@
+# Configurações locais para desenvolvimento
+
+url: ""
+baseurl: ""
+
+# Evita warnings de canonical URLs
+sass:
+  sourcemap: never
+
+# Carrega rascunhos
+future: true
+show_drafts: true
+
+# Faz live reload bonito
+livereload: true
