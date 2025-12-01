@@ -1,1 +1,1 @@
-Sitemap: https://h-pgy.github.io/site-apogesp/sitemap.xml
+Sitemap: https://apogesp.org.br/sitemap.xml
